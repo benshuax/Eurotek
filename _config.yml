@@ -1,1 +1,11 @@
 theme: jekyll-theme-cayman
+title: Eurotek Employee Portfolio
+author: Bensen Xie
+email: bensenx@valuewindowsdoors.com
+description: > # this means to ignore newlines until "baseurl:"
+  This page aims at providing a general review of employees work in Eurotek. A great company will include many great members.
+# social links
+
+github_username:  benshuax
+
+show_excerpts: true # set to false to remove excerpts on the homepage
